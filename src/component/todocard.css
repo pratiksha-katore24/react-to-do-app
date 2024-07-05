@@ -52,7 +52,7 @@
     }
 }
 .delete-icon:hover{
-    height: 23px;
+    height: 22px;
     animation: delete-animation;
     animation-duration: 0.5s;
     animation-iteration-count: infinite;
